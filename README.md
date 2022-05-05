@@ -1,9 +1,10 @@
-<div align="center">
-  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mnixry&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
-  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HornCopper&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HornCopper&layout=compact&theme=buefy&hide_border=true" /></a>
-
-</div>
+> 你好，这里是Copper，或者叫我铜，不要叫我HornCopper了，谢谢合作。
+- 首先应当承认，我一直都对`Hatsuki kiri`（下称“葉月”十分，非常，极度不满）
+- 现在冷战时期，我做一些解释，针对葉月所说的内容
+- 我刚进茶馆群的那段时间，我甚至不知道`Fandom`的`Minecraft Wiki`，所以好奇之下我注册了，并且尝试编辑，不过大多数内容都是“你知道吗”，到我敢肯定，除非细节错误，我所说的内容是绝对没有任何游戏中的错误
+- 我曾经申请`回退员`，尽管这不存在，但是这是`Mys`说的，于是我便鼓起勇气申请了，虽然遭到一堆社区成员反对，但我意识到，我是个新人啊
+- 为什么我会有轻生的念头，首先是`葉月`的封禁不合理，这种情况，封`3`天都是可以的，因为我并没有做出破坏性编辑，而只是无意义，或者说意义不能即时生效的编辑，然后我反馈了此信息，`葉月`却**反唇相讥**，另外，毫不逊色地说，`MC`一直是我的信仰级游戏，我在其`Wiki`被封禁，是十分沮丧的，不知他人苦，莫劝他人善
+- 说到偏袒这个事，我十分来气，就因为我不满葉月然后我找`斯乌`，`斯乌`和我是经过一番合理的沟通的，然后我也做出了大量建设性编辑，我晚上翻译漏洞翻译到第二天发烧住院，我觉得这是值得的，但有些人可能只会说我自作自受，凭什么？哪怕那时的行政员/管理员（之一）不是斯乌，是`湖人`，是`电量`，是`OA`，哪怕是`北鲲`，我想我起码不会像对待`葉月`那般去沟通，说偏袒，我只能说不要脏了`斯乌`的眼
+- 毒瘤这个事情，`葉月`是最没资格说的，为什么？因为他只会劝退新人，除非达到他那极高又不合理的要求，不然就讨论页、群里各种吐槽，这种行为，从发展的角度讲，百害而无一益，**这才是社区毒瘤**
+- 吐槽别人`Bot`这种事情怎么好意思做，除非能完全写出来，你就可以随便吐槽，因为人家技术不如，但很明显`葉月`不能复刻我的`Bot`，有什么资格骂，而他骂了，招致了我下发的封禁，为了`Bot`安全考虑，我封禁了他，并且，我的`Bot`有云黑
+- `葉月`的贡献我不做评价，很高就对了，但是他的过，谁能说没有？我在管理员告示板曾一度反对他就任管理员，`湖人`却叫我想想自己做了什么，为什么不考虑下双方？我承认我也有问题，但是，我相信按照`葉月`的态度是**绝对不能**解决问题的
