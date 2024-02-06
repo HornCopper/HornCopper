@@ -8,3 +8,9 @@
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+
+I am very honor for your coming. At the time when I joined the GitHub, I am just a primary student. Till now I have become a senior high school student. If you have something to contact me. Just email to `x3349104868@gmail.com`。
+
+I hate someone who are fired from my repository but continue to use the codes there and publish them to the public platform, although he has stronger ability than me.
+
+I am a member of `codethink`, [click there](https://github.com/codethink-cn/).
