@@ -2,16 +2,6 @@
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&color=445d69&random=false&width=435&lines=Hi%2C+This+is+HornCopper)](https://git.io/typing-svg)
 
-<div align="center">
-<img src="https://github-stats.liteyuki.icu/?username=HornCopper&theme=liteyuki_gradient&show_icons=true&include_all_commits=true&locale=cn" alt="HornCopper's github stats" />
-</div>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HornCopper&background=000000&stroke=d0e9ff&ring=a2d8f4&dates=d0e9ff&sideNums=a2d8f4&currStreakNum=a2d8f4&excludeDaysLabel=d0e9ff&sideLabels=d0e9ffdd&currStreakLabel=a2d8f4" />
-</div>
-<div align="center">
-<img src="https://github-stats.liteyuki.icu/top-langs/?username=HornCopper&layout=compact&theme=liteyuki_gradient&hide_border=true&locale=cn"/>
-</div>
-
 🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=fff)
